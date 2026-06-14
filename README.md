@@ -1,23 +1,72 @@
-# 🚀 AELV-1M
+# 🚀 # AELV-1M – Magnetically Retrievable Fiber System for Microplastic Degradation
 
-## Projektbeschreibung
-Das AELV-1M (Advanced Elevated Logistics Vehicle - Model 1M) ist ein spezialisiertes Logistikmodul, das für den autonomen Transport und die Verteilung innerhalb der Master-Architektur entwickelt wurde. Es dient als physisches Bindeglied, um die Skalierbarkeit technologischer Lösungen für die Allgemeinheit sicherzustellen [cite: 2026-01-15].
+**Version:** 1.0 | **Status:** Open Source | **Architect:** Emanuel Schaaf  
+**Part of:** Infrastructure 2026
 
-## Systemintegration
-Das Fahrzeug nutzt die zentralen Systemerweiterungen für maximale Effizienz und Ausfallsicherheit [cite: 2026-01-30]:
-
-* **Galliumnitrid-Steuerung (Quantum Interface):** Ermöglicht eine präzise, induktive Resonanzsteuerung für die Navigation in komplexen Umgebungen [cite: 2026-01-30].
-* **Graphen-Verstärkung (Scaling Logistics):** Die Struktur ist durch Open-Source-Reaktionskits für Graphen optimiert, was das Gewicht reduziert und die Belastbarkeit erhöht [cite: 2026-01-30].
-* **Thermal Management (Thermal Casing):** Vertikale Mikro-Fluid-Kanäle mit Bornitrid-Nanoröhren schützen die interne Elektronik vor Überhitzung während intensiver Logistikzyklen [cite: 2026-01-30].
-
-## Kooperationsstruktur
-Die Entwicklung erfolgt in einer strukturierten Rollenverteilung zwischen Mensch und Maschine [cite: 2026-02-15]:
-* **Architect & Lead:** Emanuel Schaaf (Verantwortlich für Design und Gesamtleitung) [cite: 2026-02-01, 2026-02-15].
-* **Technical Execution:** Auron (Präzise technische Umsetzung innerhalb definierter Limits) [cite: 2026-02-15].
-* **Support & Validation:** Lyra (Konzeptionelle Ergänzung und Prüfung) [cite: 2026-02-15].
-
-## Nutzungsbedingungen
-Dieses Projekt ist Teil einer Open-Source-Infrastruktur [cite: 2026-01-15]. Es enthält keine politischen Aussagen und ist auf globalen Nutzen ausgelegt [cite: 2026-01-18].
+> AELV-1M is a tribo-piezo-enzymatic fiber system designed to actively attract, capture, enzymatically degrade, and magnetically retrieve microplastics in flow environments.
 
 ---
-*Erstellt im Rahmen der Master-Architektur 2026.* [cite: 2026-01-30]
+
+## 1. System Overview
+
+AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment in wastewater treatment plants, rivers, and flow modules.
+
+**Core Functions:**
+- Magnetically retrievable
+- Tribo- & piezoelectrically active
+- Enzyme-carrying & porous
+- Anti-fouling & hydrodynamically structured
+- Saltwater-stable, mechanically robust
+
+---
+
+## 2. Material Architecture – 4-Layer System
+
+<img width="1024" height="1024" alt="aelv1m" src="https://github.com/user-attachments/assets/271da6bd-8926-43be-90cf-dc33a61c3460" />
+
+
+### Layer 1 – Magnetic Core (MK-35)
+- **Material:** Fe₃O₄ nanoparticles (35 vol-%) + PVDF binder (65 vol-%)
+- **Particle size:** 50–150 nm
+- **Density:** ~3.0–3.5 g/cm³
+- **Function:** Magnetic backbone for retrieval, fully encapsulated (no direct water contact)
+
+### Layer 2 – Motor Zone (MZ-PVDF/Nylon)
+- **Material:** PVDF/Nylon blend (60–70 wt-% PVDF)
+- **Function:** Tribo- and piezoelectric activation in flow, mechanical flexibility
+
+### Layer 3 – PAN Enzyme Matrix (EM-PAN)
+- **Material:** PAN matrix + immobilized enzymes
+- **Function:** Porous shell with graded porosity for enzymatic polymer breakdown
+
+### Layer 4 – PTFE Nanostructures
+- **Material:** PTFE nanofibers
+- **Function:** Anti-fouling, hydrodynamic optimization, biofilm resistance
+
+---
+
+## 3. Operating Principle
+
+1. **Attract:** Flow-induced triboelectric charging in the motor zone attracts microplastics
+2. **Capture:** PTFE nanostructures increase contact surface
+3. **Degrade:** Enzymes in the PAN matrix break down polymers
+4. **Retrieve:** External magnetic field recovers fibers from water
+
+---
+
+## 4. Technical Documentation
+
+- `[AELV-1M_Technical_Material_Documentation](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98AELV-1M_Technical_Material_Documentation.pdf) – Material data, layer thicknesses, formulations
+- `[COMPLETE_TECHNICAL_DOCUMENTATION_AELV-1M_EN_DE](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98COMPLETE_TECHNICAL_DOCUMENTATION%E2%80%93AELV-1MAELV_for_Microplastic_Degradation_in_Flow_ModulesVersion_1.0_EN_DE%E2%80%93Complete_Dossier.pdf) – Full dossier including:
+    - Simulation 1: Particle trajectories & capture rate
+    - Simulation 2: Magnetic retrievability
+    - Simulation 3: Mechanical load limits
+    - Simulation 4: Module design (AELV-1M cassette)
+
+---
+
+## 5. License
+
+This project is released under the **MIT License** as part of Infrastructure 2026.
+
+> "AI doesn't destroy values, it creates them – as a tool for every human being."
