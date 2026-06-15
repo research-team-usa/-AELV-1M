@@ -1,13 +1,35 @@
-# 🚀 # AELV-1M – Magnetically Retrievable Fiber System for Microplastic Degradation
+# SECURITY CLEARANCE: MANUAL-ONLY EXPORT
 
-**Version:** 1.0 | **Status:** Open Source | **Architect:** Emanuel Schaaf  
+# 🚀 AELV-1M Aqua-Floater & Fiber System
+
+**Version:** 1.0 | **Status:** Open Source | **Project Lead:** User  
 **Part of:** Infrastructure 2026
 
-> AELV-1M is a tribo-piezo-enzymatic fiber system designed to actively attract, capture, enzymatically degrade, and magnetically retrieve microplastics in flow environments.
+## 1. The Autonomous Platform: AELV-1M Aqua-Floater
+
+<img width="1536" height="1024" alt="AELV‑1M_Aqua‑Floater_photorealistic_USA" src="https://github.com/user-attachments/assets/78c09740-efdf-48f4-a683-d44542bdc15d" />
+
+
+The **AELV-1M Aqua-Floater** is an autonomous, zero-emission catamaran platform designed for the continuous, closed-loop deployment (Deploy, Activation, Retrieval) of the tribo-piezo-enzymatic AELV-1M fiber system in open-water environments. 
+
+**Platform Highlights:**
+* **Passive Venturi Activation:** The inner hulls form a rigid hydrodynamic funnel (640 mm inlet tapering to a 400 mm throat). This passively accelerates the water flow to 1.6 m/s, providing the exact mechanical energy needed to activate the piezoelectric and triboelectric layers of the fibers without external power.
+* **Full-Cycle Operation:** The system seamlessly integrates a front fiber dispenser, a central electric jet drive, an aft retrieval cassette, and a submerged PWM-controlled electromagnetic rail (0.8 T) to harvest the MK-35 fiber cores after their 45-minute drift.
+* **Energy Autonomous:** Completely self-sufficient operation is guaranteed by a planar 1.8 m² solar deck (396W) paired with a high-cycle LiFePO4 battery array.
+* **Scalable Construction:** Engineered for open-source reproduction worldwide, the hull is constructed entirely from weldable PE-HD plates using strict planar geometry (sharp, material-on-material edges), ensuring maximum cost-efficiency and durability in both salt and freshwater.
+
+Technical Documentation
+- [AELV-1M Aqua-Floater Techniknical Dossier](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/AELV%E2%80%911M_Aqua%E2%80%91Floater/TECHNICAL_DOSSIER_AUTONOMOUS_FLOATING_SYSTEM.pdf)
+- [AELV-1M Aqua-Floater GLOBAL DIMENSIONS & MATHEMATICAL TOPOLOGY](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/AELV%E2%80%911M_Aqua%E2%80%91Floater/GLOBAL_DIMENSIONS_%26_MATHEMATICAL_TOPOLOGY.pdf)
+- [AELV-1M Aqua-Floater CNC MILLING PATH 2D BASE TOPOLOGY](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/AELV%E2%80%911M_Aqua%E2%80%91Floater/CNC_MILLING_PATH_2D_BASE_TOPOLOGY.pdf)
+
+  <img width="1536" height="1024" alt="AELV‑1M_Aqua‑Floater" src="https://github.com/user-attachments/assets/0f8db5ae-ddae-435c-b470-a43e8c1bc802" />
 
 ---
 
-## 1. System Overview
+## 2. System Overview: Magnetically Retrievable Fiber System
+
+> AELV-1M is a tribo-piezo-enzymatic fiber system designed to actively attract, capture, enzymatically degrade, and magnetically retrieve microplastics in flow environments.
 
 AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment in wastewater treatment plants, rivers, and flow modules.
 
@@ -20,10 +42,9 @@ AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment i
 
 ---
 
-## 2. Material Architecture – 4-Layer System
+## 3. Material Architecture – 4-Layer System
 
 <img width="1024" height="1024" alt="aelv1m" src="https://github.com/user-attachments/assets/271da6bd-8926-43be-90cf-dc33a61c3460" />
-
 
 ### Layer 1 – Magnetic Core (MK-35)
 - **Material:** Fe₃O₄ nanoparticles (35 vol-%) + PVDF binder (65 vol-%)
@@ -45,7 +66,7 @@ AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment i
 
 ---
 
-## 3. Operating Principle
+## 4. Operating Principle
 
 1. **Attract:** Flow-induced triboelectric charging in the motor zone attracts microplastics
 2. **Capture:** PTFE nanostructures increase contact surface
@@ -54,12 +75,10 @@ AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment i
 
 ---
 
-## 4. Technical Documentation
+## 5. Technical Documentation
 
 - [AELV-1M_Technical_Material_Documentation](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98AELV-1M_Technical_Material_Documentation.pdf) – Material data, layer thicknesses, formulations
 - [COMPLETE_TECHNICAL_DOCUMENTATION_AELV-1M_EN_DE](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98COMPLETE_TECHNICAL_DOCUMENTATION%E2%80%93AELV-1MAELV_for_Microplastic_Degradation_in_Flow_ModulesVersion_1.0_EN_DE%E2%80%93Complete_Dossier.pdf) – Full dossier including:
-
-  
     - Simulation 1: Particle trajectories & capture rate
     - Simulation 2: Magnetic retrievability
     - Simulation 3: Mechanical load limits
@@ -67,7 +86,7 @@ AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment i
 
 ---
 
-## 5. License
+## 6. License
 
 This project is released under the **MIT License** as part of Infrastructure 2026.
 
