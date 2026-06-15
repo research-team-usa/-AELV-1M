@@ -1,5 +1,3 @@
-# SECURITY CLEARANCE: MANUAL-ONLY EXPORT
-
 # 🚀 AELV-1M Aqua-Floater & Fiber System
 
 * **Version:** 1.0 | **Status:** Open Source
