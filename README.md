@@ -78,8 +78,9 @@ AELV-1M is the evolution of AELV-1, engineered for industrial-scale deployment i
 
 ## 5. Technical Documentation
 
-- [AELV-1M_Technical_Material_Documentation](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98AELV-1M_Technical_Material_Documentation.pdf) – Material data, layer thicknesses, formulations
-- [COMPLETE_TECHNICAL_DOCUMENTATION_AELV-1M_EN_DE](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/%F0%9F%93%98COMPLETE_TECHNICAL_DOCUMENTATION%E2%80%93AELV-1MAELV_for_Microplastic_Degradation_in_Flow_ModulesVersion_1.0_EN_DE%E2%80%93Complete_Dossier.pdf) – Full dossier including:
+- [AELV-1M Technical Material Documentation](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/AELV-1M_Technical_Material_Documentation.pdf) – Material data, layer thicknesses, formulations
+- [COMPLETE TECHNICAL DOCUMENTATION AELV-1M](https://github.com/research-team-usa/-AELV-1M/blob/main/AELV-1M/COMPLETE_TECHNICAL_DOCUMENTATION%E2%80%93AELV-1MAELV_for_Microplastic_Degradation_in_Flow_ModulesVersion_1.0%E2%80%93Complete_Dossier.pdf) – Full dossier including:
+  
     - Simulation 1: Particle trajectories & capture rate
     - Simulation 2: Magnetic retrievability
     - Simulation 3: Mechanical load limits
