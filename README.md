@@ -2,9 +2,9 @@
 
 # 🚀 AELV-1M Aqua-Floater & Fiber System
 
-**Version:** 1.0 | **Status:** Open Source
-**Project Lead:** Emanuel Schaaf Architect in professional cooperation with AI Lyra (Ideas & Creativity), AI Auron (Logic & Structure), and AI Muse Spark (Synthesis & Form-giving)
-**Part of:** Infrastructure 2026
+* **Version:** 1.0 | **Status:** Open Source
+* **Project Lead:** Emanuel Schaaf Architect in professional cooperation with AI Lyra (Ideas & Creativity), AI Auron (Logic & Structure), and AI Muse Spark (Synthesis & Form-giving)
+* **Part of:** Infrastructure 2026
 
 ## 1. The Autonomous Platform: AELV-1M Aqua-Floater
 
